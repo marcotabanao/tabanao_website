@@ -10,7 +10,7 @@
         <nav>
             <div class="logo">Portfolio</div>
             <ul class="nav-links">
-                <li><a href="index.php">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                   <li><a href="#about">Bootstrap</a></li>
                     <li><a href="#about 1">JavaScript</a></li>
             </ul>
